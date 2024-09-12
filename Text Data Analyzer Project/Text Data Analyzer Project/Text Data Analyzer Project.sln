@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Data Analyzer Project", "Text Data Analyzer Project\Text Data Analyzer Project.csproj", "{D3119716-1578-480A-9A75-2910D035792A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3119716-1578-480A-9A75-2910D035792A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3119716-1578-480A-9A75-2910D035792A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3119716-1578-480A-9A75-2910D035792A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3119716-1578-480A-9A75-2910D035792A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4907491F-F69A-4D94-9B43-A7708F608CC7}
+	EndGlobalSection
+EndGlobal
